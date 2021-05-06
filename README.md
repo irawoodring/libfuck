@@ -18,3 +18,5 @@ Do it for the virtualization of reality. Do it for the memes.
 ### 003: A library that looks through source code and replaces the f word with PG-13 version.
 
 ### 004: A library that looks through source code and replaces PG-13 explicatives with the most holy of utterances - "fuck".
+
+### 005: A Clippy-like persona that lives on your desktop and randomly curses at you when you make a typo.
