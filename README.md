@@ -14,3 +14,7 @@ we can breed better programmers by forcing their code into the `Brainfuck` parad
 Do it for the virtualization of reality. Do it for the memes. 
 
 ### 002: A library that obfuscates code for umm... security purposes?
+
+### 003: A library that looks through source code and replaces the f word with PG-13 version.
+
+### 004: A library that looks through source code and replaces PG-13 explicatives with the most holy of utterances - "fuck".
