@@ -20,3 +20,5 @@ Do it for the virtualization of reality. Do it for the memes.
 ### 004: A library that looks through source code and replaces PG-13 explicatives with the most holy of utterances - "fuck".
 
 ### 005: A Clippy-like persona that lives on your desktop and randomly curses at you when you make a typo.
+
+### 006: A library to change all perror code messages to include "fuck"
